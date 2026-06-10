@@ -17,3 +17,8 @@ Abre `index.html` directamente en el navegador.
 - HTML5
 - CSS3
 - Diseno responsive
+
+## APIs y recursos externos
+
+- Devicon CDN via jsDelivr: iconos de tecnologias y herramientas.
+- Unsplash Images: imagenes decorativas para las tarjetas de proyectos.
